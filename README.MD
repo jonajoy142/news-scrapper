@@ -85,5 +85,3 @@ Edit `scraper_config.json` to adjust settings such as:
 GitHub: [Jona](https://github.com/jonajoy142)
 
 For issues or suggestions, please open an issue on the GitHub repository.
-
-```
