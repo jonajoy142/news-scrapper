@@ -1,0 +1,27 @@
+{
+  "scraper_settings": {
+    "max_articles_per_run": 150,
+    "delay_range": [
+      1,
+      3
+    ],
+    "schedule_hours": 6,
+    "base_url": "https://www.manoramaonline.com"
+  },
+  "categories": {
+    "kerala": "/news/kerala.html",
+    "india": "/news/india.html",
+    "world": "/news/world.html",
+    "sports": "/sports.html",
+    "movies": "/movies.html",
+    "business": "/business.html",
+    "health": "/health.html",
+    "technology": "/tech.html"
+  },
+  "output_settings": {
+    "csv_folder": "scraped_data",
+    "log_folder": "logs",
+    "backup_enabled": true,
+    "max_files_to_keep": 30
+  }
+}
